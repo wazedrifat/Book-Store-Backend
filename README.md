@@ -14,7 +14,7 @@ Used features
 9. using various data types in python & db models i.e. : UUID, dateTime, custom object etc.
 10. sqlalchemy
  
-Features to try:
+Features to try:\n
 11. multi threading, async, await
 12. multiple route in different files for big project
 13. complex table join queries
