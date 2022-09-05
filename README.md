@@ -20,3 +20,4 @@ Features to try:
 13. complex table join queries
 14. design patterns for python i.e. : singelton etc.
 15. using compiled & encrypted configurations i.e. db connection strings
+
